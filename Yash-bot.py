@@ -15,7 +15,7 @@ from telegram.error import TelegramError
 # 1. Configuration and Setup
 # ==========================================
 TELEGRAM_BOT_TOKEN = "7835111211:AAG_11yl2GL5xQvaAjZCUNW5jwtzp7srEG8"
-HF_API_TOKEN = "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"
+HF_API_TOKEN = "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"
 
 CHAT_API_URL = "https://router.huggingface.co/v1/chat/completions"
 CHAT_MODEL = "deepseek-ai/DeepSeek-V3.2-Exp"
